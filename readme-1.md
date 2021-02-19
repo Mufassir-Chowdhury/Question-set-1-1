@@ -27,9 +27,9 @@ Please, note the following when setting the questions:
 
 * You can take idea from the example question set given as pdf. These are mainly
 
-  previous year questions for [2017 batch](c-theory-final-question-2017.pdf) and
+  previous year questions for [2017 batch](https://github.com/Mufassir-Chowdhury/Question-set-1-1/tree/75c9c157aee6337fe20b5c7fa3a1a64a1c9d7052/c-theory-final-question-2017.pdf) and
 
-  [2018 batch](c-theory-final-question-2018.pdf).
+  [2018 batch](https://github.com/Mufassir-Chowdhury/Question-set-1-1/tree/75c9c157aee6337fe20b5c7fa3a1a64a1c9d7052/c-theory-final-question-2018.pdf).
 
 * No question should be exactly same from the provided questions.
 * All questions should be produced by your own. \*\*If any kind of the similarity
